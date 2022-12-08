@@ -1,0 +1,20 @@
+{
+  "name": "js-node-hm-1-rkc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-byte256/js-node-hm-1-rkc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-byte256/js-node-hm-1-rkc/issues"
+  },
+  "homepage": "https://github.com/Alex-byte256/js-node-hm-1-rkc#readme"
+}
